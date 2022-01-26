@@ -40,7 +40,7 @@ SQLite
 Oracle SQL
 [<img align="left" alt="Oracle" width="32px" src="https://cdn.svgporn.com/logos/oracle.svg?response-content-disposition=attachment%3Bfilename%3Doracle.svg" />][oracle]
 
-Google, yeah i know how to Google a bit
+Google, yeah i know how to Google a bit :)
 [<img align="left" alt="Google" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" />][google]
 
 
