@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning in my free time: webscraping with selenium and asyncio
 - 👯 I’m looking for an internship where I can learn and develop.
 - 🥅 2022 Goal: to become a better programmer.
-- ⚡ Fun fact: I work as a food courier on my bicycle, also I love to play chess and do calisthenics.
+- ⚡ Fun fact: I work as a food courier on my bicycle, also I love to play chess and I know how to eat with chopsticks.
 
 <br />
 
