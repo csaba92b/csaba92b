@@ -28,6 +28,7 @@ Jupyter
 
 PyQt
 [<img align="left" alt="PyQt" width="32px" src="https://cdn.svgporn.com/logos/qt.svg?response-content-disposition=attachment%3Bfilename%3Dqt.svg" />][pyqt]
+<br />
 
 git
 [<img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][git]
