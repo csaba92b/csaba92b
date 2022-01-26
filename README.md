@@ -14,35 +14,35 @@ Python
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 
 PyCharm
-[<img align="left" alt="PyCharm" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />] [pycharm]
+[<img align="left" alt="PyCharm" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
 
 VSCode
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] [vscode]
+[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 Anaconda
-[<img align="left" alt="Anaconda" width="32px" src="https://avatars.githubusercontent.com/u/22454001?s=200&v=4" />] [anaconda]
+[<img align="left" alt="Anaconda" width="32px" src="https://avatars.githubusercontent.com/u/22454001?s=200&v=4" />][anaconda]
 
 Jupyter
-[<img align="left" alt="Jupyter" width="32px" src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" />] [jupyter]
+[<img align="left" alt="Jupyter" width="32px" src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" />][jupyter]
 <br />
 
 PyQt
-[<img align="left" alt="PyQt" width="32px" src="https://cdn.svgporn.com/logos/qt.svg?response-content-disposition=attachment%3Bfilename%3Dqt.svg" />] [pyqt]
+[<img align="left" alt="PyQt" width="32px" src="https://cdn.svgporn.com/logos/qt.svg?response-content-disposition=attachment%3Bfilename%3Dqt.svg" />][pyqt]
 
 git
-[<img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />] [git]
+[<img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][git]
 
 GitHub
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />] [github]
+[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />][github]
 
 SQLite
-[<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />] [sql]
+[<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
 Oracle SQL
-[<img align="left" alt="Oracle" width="32px" src="https://cdn.svgporn.com/logos/oracle.svg?response-content-disposition=attachment%3Bfilename%3Doracle.svg" />]  [oracle]
+[<img align="left" alt="Oracle" width="32px" src="https://cdn.svgporn.com/logos/oracle.svg?response-content-disposition=attachment%3Bfilename%3Doracle.svg" />][oracle]
 
 Google, yeah i know how to Google a bit
-[<img align="left" alt="Google" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" />] [google]
+[<img align="left" alt="Google" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" />][google]
 
 
 <br />
@@ -51,7 +51,7 @@ Google, yeah i know how to Google a bit
 
 [<img align="left" alt="Numpy" width="32px" src="https://cdn.svgporn.com/logos/numpy.svg?response-content-disposition=attachment%3Bfilename%3Dnumpy.svg" />][numpy]
 [<img align="left" alt="Matplotlib" width="32px" src="https://cdn.svgporn.com/logos/matplotlib.svg?response-content-disposition=attachment%3Bfilename%3Dmatplotlib.svg" />][matp]
-[<img align="left" alt="TensorFlow" width="32px" src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" />] [tensor]
+[<img align="left" alt="TensorFlow" width="32px" src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" />][tensor]
 
 <br />
 <br />
