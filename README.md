@@ -9,43 +9,65 @@
 
 <br />
 
-
 ### Languages and Tools  :
 Python
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 
-[<img align="left" alt="PyCharm" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />] PyCharm
+PyCharm
+[<img align="left" alt="PyCharm" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />] [pycharm]
 
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] VSCode
+VSCode
+[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] [vscode]
 
-[<img align="left" alt="Anaconda" width="32px" src="https://avatars.githubusercontent.com/u/22454001?s=200&v=4" />] Anaconda
+Anaconda
+[<img align="left" alt="Anaconda" width="32px" src="https://avatars.githubusercontent.com/u/22454001?s=200&v=4" />] [anaconda]
 
-[<img align="left" alt="Jupyter" width="26px" src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" />] Jupyter
+Jupyter
+[<img align="left" alt="Jupyter" width="32px" src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" />] [jupyter]
 <br />
 
-[<img align="left" alt="PyQt" width="32px" src="https://cdn.svgporn.com/logos/qt.svg?response-content-disposition=attachment%3Bfilename%3Dqt.svg" />] PyQt
+PyQt
+[<img align="left" alt="PyQt" width="32px" src="https://cdn.svgporn.com/logos/qt.svg?response-content-disposition=attachment%3Bfilename%3Dqt.svg" />] [pyqt]
 
-[<img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />] git
+git
+[<img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />] [git]
 
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />] GitHub
+GitHub
+[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />] [github]
 
-[<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />] SQL
+SQLite
+[<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />] [sql]
 
-[<img align="left" alt="Oracle" width="32px" src="https://cdn.svgporn.com/logos/oracle.svg?response-content-disposition=attachment%3Bfilename%3Doracle.svg" />]  Oracle SQL
+Oracle SQL
+[<img align="left" alt="Oracle" width="32px" src="https://cdn.svgporn.com/logos/oracle.svg?response-content-disposition=attachment%3Bfilename%3Doracle.svg" />]  [oracle]
 
-[<img align="left" alt="Google" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" />] yeah i know how to Google a bit
+Google, yeah i know how to Google a bit
+[<img align="left" alt="Google" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" />] [google]
 
 
 <br />
 
 ### Some of the relevant packages i have used so far:
 
-[<img align="left" alt="Numpy" width="32px" src="https://cdn.svgporn.com/logos/numpy.svg?response-content-disposition=attachment%3Bfilename%3Dnumpy.svg" />]
-[<img align="left" alt="Matplotlib" width="32px" src="https://cdn.svgporn.com/logos/matplotlib.svg?response-content-disposition=attachment%3Bfilename%3Dmatplotlib.svg" />]
-[<img align="left" alt="TensorFlow" width="32px" src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" />] 
+[<img align="left" alt="Numpy" width="32px" src="https://cdn.svgporn.com/logos/numpy.svg?response-content-disposition=attachment%3Bfilename%3Dnumpy.svg" />][numpy]
+[<img align="left" alt="Matplotlib" width="32px" src="https://cdn.svgporn.com/logos/matplotlib.svg?response-content-disposition=attachment%3Bfilename%3Dmatplotlib.svg" />][matp]
+[<img align="left" alt="TensorFlow" width="32px" src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" />] [tensor]
 
 <br />
 <br />
 
 
-[description]: https://www.python.org
+[python]: https://www.python.org
+[pycharm]: https://www.jetbrains.com/pycharm/
+[vscode]: https://code.visualstudio.com/
+[anaconda]: https://www.anaconda.com/
+[jupyter]: https://jupyter.org/
+[pyqt]: https://www.qt.io/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[sql]: https://www.sqlite.org/index.html
+[oracle]: https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html
+[google]: https://www.google.com
+[numpy]: https://numpy.org/
+[matp]: https://matplotlib.org/
+[tensor]: https://www.tensorflow.org/
