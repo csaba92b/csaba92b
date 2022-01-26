@@ -11,8 +11,8 @@
 
 
 ### Languages and Tools  :
-
-[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][https://www.python.org] Python
+Python
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 [<img align="left" alt="PyCharm" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />] PyCharm
 
@@ -35,7 +35,6 @@
 
 [<img align="left" alt="Google" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" />] yeah i know how to Google a bit
 
-### Languages and Tools:
 
 <br />
 
