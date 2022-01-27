@@ -4,8 +4,9 @@
 
 - 🌱 I’m currently learning in my free time: webscraping with selenium and asyncio
 - 👯 I’m looking for an internship where I can learn and develop.
-- 🥅 2022 Goal: to become a better programmer.
+- 🥅 2022 Goal: i want to comment my code more.
 - ⚡ Fun fact: I work as a food courier on my bicycle, also I love to play chess and I know how to eat with chopsticks.
+- here is my codewars profile: [<img alt="Codewars" width="20px" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />][profile]
 
 <br />
 
@@ -52,10 +53,11 @@ Google, yeah i know how to Google a bit :)
 [<img align="left" alt="Matplotlib" width="32px" src="https://cdn.svgporn.com/logos/matplotlib.svg?response-content-disposition=attachment%3Bfilename%3Dmatplotlib.svg" />][matp]
 [<img align="left" alt="TensorFlow" width="32px" src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" />][tensor]
 
+#### more projects are coming..
 <br />
 <br />
 
-
+[profile]: https://www.codewars.com/users/DasLer
 [python]: https://www.python.org
 [pycharm]: https://www.jetbrains.com/pycharm/
 [vscode]: https://code.visualstudio.com/
