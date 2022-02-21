@@ -52,6 +52,7 @@ Google, yeah i know how to Google a bit :)
 [<img align="left" alt="Numpy" width="32px" src="https://cdn.svgporn.com/logos/numpy.svg?response-content-disposition=attachment%3Bfilename%3Dnumpy.svg" />][numpy]
 [<img align="left" alt="Matplotlib" width="32px" src="https://cdn.svgporn.com/logos/matplotlib.svg?response-content-disposition=attachment%3Bfilename%3Dmatplotlib.svg" />][matp]
 [<img align="left" alt="TensorFlow" width="32px" src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" />][tensor]
+[<img align="left" alt="TensorFlow" width="32px" src="https://pandas.pydata.org/static/img/favicon_white.ico" />][pandas]
 <br />
 
 #### more projects are coming..
@@ -73,3 +74,4 @@ Google, yeah i know how to Google a bit :)
 [numpy]: https://numpy.org/
 [matp]: https://matplotlib.org/
 [tensor]: https://www.tensorflow.org/
+[pandas]: https://pandas.pydata.org/
