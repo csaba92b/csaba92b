@@ -7,6 +7,7 @@
 - 🥅 2022 Goal: i want to comment my code more.
 - ⚡ Fun fact: I work as a food courier on my bicycle, also I love to play chess and I know how to eat with chopsticks.
 - here is my codewars profile: [<img alt="Codewars" width="20px" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />][profile]
+- my favorite projet so far: [penny-bot](https://github.com/csaba92b/penny-bot)
 
 <br />
 
